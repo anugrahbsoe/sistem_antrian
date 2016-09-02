@@ -1,4 +1,4 @@
-package com.fajarlabs.sistem_antrian;
+package com.fajarlabs.sistem_antrian.library;
 
 import java.io.File;
 import java.io.IOException;
